@@ -4,69 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcdatamodeld/Arambyeol.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/xcshareddata/xcschemes/Arambyeol_WidgetExtension.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/xcuserdata/gimga-eun.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/API Action/Menu.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/API Action/Post.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/API Action/Sign in.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/API Action/Sign up.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Arambyeol.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Aramyeol.xcdatamodeld/Aramvyeol.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/노란별.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/노란별.imageset/노란별.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/머리.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/머리.imageset/머리.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/아람별행성.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/아람별행성.imageset/아람별행성.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/아람별행성.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/회색별.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/회색별.imageset/회색별.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Data/Data.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Data/Structs.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/DataController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Main/MainSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Main/MenuSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Main/breakfastView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Main/dinnerSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Main/lunchSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Preview Assets.xcassets/아람별행성.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Preview Content/Preview Assets.xcassets/아람별행성.imageset/아람별행성.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/exSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/ArambyeolWidget/ArambyeolWidget.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Arambyeol_Widget.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Assets.xcassets/WidgetBackground.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_Widget/ShowMenuSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol_WidgetExtension.entitlements" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/CoreData.xcdatamodeld/CoreData.xcdatamodel/contents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arambyeol/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/API/Menu.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/API/Post.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/API/Sign in.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/API/Signup.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/Data/Data.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/Data/Struct.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/View/MainSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/View/MenuSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/View/breakfastView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/View/dinnerSwiftUIView.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewArambyeol/NewArambyeol/View/lunchSwiftUIView.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/project.xcworkspace/xcuserdata/gimga-eun.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/project.xcworkspace/xcuserdata/gimga-eun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/xcuserdata/gimga-eun.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol.xcodeproj/xcuserdata/gimga-eun.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Arambyeol.xcdatamodeld/.xccurrentversion" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Arambyeol.xcdatamodeld/.xccurrentversion" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Arambyeol.xcdatamodeld/Arambyeol.xcdatamodel/contents" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Arambyeol.xcdatamodeld/Arambyeol.xcdatamodel/contents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/ArambyeolApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/ArambyeolApp.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/ContentView.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Persistence.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../Arambyeol/Arambyeol/Persistence.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="init setting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +16,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gimga-eun/Desktop/대학/대외활동/Arambyeol/_Backend",
+    "last_opened_file_path": "/Users/gimga-eun/Desktop/대학/대외활동/ArambyeolBackend/_Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -125,11 +63,24 @@
       <option name="presentableId" value="Default" />
       <updated>1712126432761</updated>
       <workItem from="1712126434225" duration="820000" />
-      <workItem from="1712127293040" duration="44000" />
+      <workItem from="1712127382401" duration="358000" />
     </task>
+    <task id="LOCAL-00001" summary="init setting">
+      <option name="closed" value="true" />
+      <created>1712127671646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712127671646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="init setting" />
   </component>
 </project>
