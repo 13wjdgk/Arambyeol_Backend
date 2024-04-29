@@ -23,7 +23,7 @@ public class LoggingController {
 
 	@PostMapping("/loggingAccessTime")
 	public void loggingAccessTime(@RequestBody AccessTimeRequest accessTimeRequest){
-		loggingAccessTimeService.writeAccessLogToFile(accessTimeRequest.accessTime());
+		loggingAccessTimeService.writeAccessLogToFile(accessTimeRequest);
 	}
 
 }

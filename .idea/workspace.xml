@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="gitignore workspace.xml 추가">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="feat : 메뉴 접근 시간 로그 기록">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/enums/PlatformType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/LoggingAccessTimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/service/LoggingAccessTimeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/controller/LoggingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/controller/LoggingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/dto/request/AccessTimeRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/dto/request/AccessTimeRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/service/LoggingAccessTimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/service/LoggingAccessTimeService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,7 +105,7 @@
       <workItem from="1712403185568" duration="2182000" />
       <workItem from="1712846438906" duration="667000" />
       <workItem from="1713744882373" duration="2000" />
-      <workItem from="1714380220046" duration="8007000" />
+      <workItem from="1714380220046" duration="11463000" />
     </task>
     <task id="LOCAL-00001" summary="init setting">
       <option name="closed" value="true" />
@@ -140,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712403459121</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat : 메뉴 접근 시간 로그 기록">
+      <option name="closed" value="true" />
+      <created>1714396594169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714396594169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +167,7 @@
     <MESSAGE value="access log 파일 생성" />
     <MESSAGE value="빌드 테스트" />
     <MESSAGE value="gitignore workspace.xml 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore workspace.xml 추가" />
+    <MESSAGE value="feat : 메뉴 접근 시간 로그 기록" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : 메뉴 접근 시간 로그 기록" />
   </component>
 </project>
