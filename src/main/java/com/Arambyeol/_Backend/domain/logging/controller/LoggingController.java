@@ -11,16 +11,19 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.Arambyeol._Backend.domain.logging.dto.request.AccessTimeRequest;
+import com.Arambyeol._Backend.domain.logging.service.LoggingAccessTimeService;
 
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+
+@RequiredArgsConstructor
 @RestController
 public class LoggingController {
+	private final LoggingAccessTimeService loggingAccessTimeService;
+
 	@PostMapping("/loggingAccessTime")
 	public void loggingAccessTime(@RequestBody AccessTimeRequest accessTimeRequest){
-
+		loggingAccessTimeService.writeAccessLogToFile(accessTimeRequest.accessTime());
 	}
 
-	@GetMapping("/test")
-	public String loggingAccessTime(){
-		return "hi";
-	}
 }

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="빌드 테스트" />
+    <list default="true" id="0428ee4b-c395-4bf2-8b07-b6e3d2f439a6" name="Changes" comment="gitignore workspace.xml 추가">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/LoggingAccessTimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/service/LoggingAccessTimeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/controller/LoggingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Arambyeol/_Backend/domain/logging/controller/LoggingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="477cfc20-afa1-49ca-9738-fe3417453ce3" />
+        <option name="url" value="https://github.com/13wjdgk/Arambyeol_Backend.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.fluentd/fluent-logger/0.3.4/d81490105d41f6667060e3864fa0e1e98e486e19/fluent-logger-0.3.4-sources.jar!/org/fluentd/logger/FluentLogger.java" root0="SKIP_INSPECTION" />
@@ -48,8 +67,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="PROJECT_PATH" value="$PROJECT_DIR$" />
+      </envs>
       <module name="_Backend.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.Arambyeol._Backend.BackendApplication" />
       <method v="2">
@@ -68,6 +95,10 @@
       <workItem from="1712126434225" duration="820000" />
       <workItem from="1712127382401" duration="358000" />
       <workItem from="1712374974238" duration="4440000" />
+      <workItem from="1712403185568" duration="2182000" />
+      <workItem from="1712846438906" duration="667000" />
+      <workItem from="1713744882373" duration="2000" />
+      <workItem from="1714380220046" duration="8007000" />
     </task>
     <task id="LOCAL-00001" summary="init setting">
       <option name="closed" value="true" />
@@ -101,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712403065749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gitignore workspace.xml 추가">
+      <option name="closed" value="true" />
+      <created>1712403459121</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712403459121</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +151,7 @@
     <MESSAGE value="gitignore log 추가" />
     <MESSAGE value="access log 파일 생성" />
     <MESSAGE value="빌드 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="빌드 테스트" />
+    <MESSAGE value="gitignore workspace.xml 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore workspace.xml 추가" />
   </component>
 </project>
