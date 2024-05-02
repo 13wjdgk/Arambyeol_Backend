@@ -39,3 +39,5 @@ out/
 ### Logs ###
 *.log
 
+### xml ###
+workspace.xml
